@@ -1,5 +1,5 @@
 #Test for script analyzer
-write-host "hello world"
+write-output "hello world"
 get-service bits
-write-host "finish"
+write-output "finish"
 
